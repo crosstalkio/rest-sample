@@ -1,3 +1,4 @@
 /.tool
 /go.sum
 *.pb.go
+/sample
